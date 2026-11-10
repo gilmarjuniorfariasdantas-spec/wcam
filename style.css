@@ -477,3 +477,8 @@ footer p {
     height: 60px;
     object-fit: contain;
 }
+
+.piloto-banido {
+    color: #ff0000 !important;
+    font-weight: bold !important;
+}
